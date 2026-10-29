@@ -1,0 +1,14 @@
+.app-main {
+    min-height: 100vh;
+    margin-inline-start: 0;
+}
+
+.app-empty-state {
+  margin: 48px 32px;
+  padding: 48px 20px;
+  color: #aeb3c9;
+  text-align: center;
+  background: #101321;
+  border: 1px solid rgb(255 255 255 / 7%);
+  border-radius: 16px;
+}
